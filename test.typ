@@ -64,9 +64,7 @@ $ scripts(lim)_(lim_(dlimit_n)) $
 
 $ dlimit_n (ZZ \/ ZZ_n) tilde.eqq product_p ZZ_p $
 
-$ x arrow xrightarrow(top: #sym.pi, bottom: #sym.phi) y xrightarrow(top: a, bottom: b) pi $
-
-$ #style(styles => math.attach(math.limits(sym.arrow), top: "a")) arrow $
+$ x arrow xrightarrow(top: pi, bottom: phi) y xrightarrow(top: f + g, bottom: tilde.eqq) pi $
 
 #let quad = math.space + math.space + math.space + math.space
 #set math.lr(
