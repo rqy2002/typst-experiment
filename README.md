@@ -1,7 +1,7 @@
 This is some experimental Typst file by me. Maybe it will become a little library.
 I want to implement:
 
-- [x] Basic theorem environments like LaTeX. (here is a better at [](https://github.com/sahasatvik/typst-theorems))
+- [x] Basic theorem environments like LaTeX. (here is a better at [Typst-theorems](https://github.com/sahasatvik/typst-theorems))
 - [ ] Commutative diagrams like Tikzcd.
 - [ ] Fonts configuration as in xeCJK. (Now partially implemented)
 - [ ] Maybe more others?
